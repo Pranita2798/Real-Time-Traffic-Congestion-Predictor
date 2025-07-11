@@ -206,18 +206,3 @@ interface TrafficData {
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📧 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Contact the development team at support@traffic-predictor.com
-- Check the [Documentation](docs/) for detailed guides
-
----
-
-Built with ❤️ for smarter cities and efficient transportation.
